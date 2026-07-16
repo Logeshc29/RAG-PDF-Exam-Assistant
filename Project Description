@@ -1,0 +1,1 @@
+RAG-based AI PDF Exam Assistant built using LangChain, HuggingFace, FAISS and Streamlit. Allows students to upload PDFs, generate summaries and ask questions from study material.
